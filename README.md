@@ -11,4 +11,6 @@
 
 ## 🧗‍♂️ Most Used Languages & Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojinJeonkr)](https://github.com/WoojinJeonkr/github-readme-stats) 　　　[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojinJeonkr)](https://github.com/WoojinJeonkr/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojinJeonkr&layout=compact)](https://github.com/WoojinJeonkr/github-readme-stats)
+<br/>
+[![Woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojinJeonkr&show_icons=true&count_private=true)](https://github.com/WoojinJeonkr/github-readme-stats)
