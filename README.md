@@ -9,8 +9,6 @@
 ## 🏆 solved rank 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wooeric)](https://solved.ac/wooeric)
 
-## 🧗‍♂️ Most Used Languages & Stats
+## 🧗‍♂️ Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojinJeonkr&layout=compact)](https://github.com/WoojinJeonkr/github-readme-stats)
-<br/>
 [![Woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojinJeonkr&show_icons=true&count_private=true)](https://github.com/WoojinJeonkr/github-readme-stats)
