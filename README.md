@@ -4,5 +4,7 @@
 
 [![GMail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newwjsdnwls@gmail.com)](mailto:newwjsdnwls@gmail.com) [![Blog](https://img.shields.io/badge/tech%20Blog-e0edf8?style=flat-square&logo=Astro&logoColor=#BC52EE&link=https://techdoerwoojin.netlify.app)](https://techdoerwoojin.netlify.app)
 
+![snake gif](https://github.com/WoojinJeonkr/WoojinJeonkr/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 solved rank 
 ![wooeric's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wooeric)
