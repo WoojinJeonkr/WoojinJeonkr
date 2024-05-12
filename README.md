@@ -1,6 +1,6 @@
 <h1>Hi I'm Jeon Woojin!👋</h1>
 
-[![GMail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newwjsdnwls@gmail.com)](mailto:newwjsdnwls@gmail.com) [![Blog](https://img.shields.io/badge/tech%20Blog-e0edf8?style=flat-square&logo=Astro&logoColor=#BC52EE&link=https://techdoerwoojin.netlify.app)](https://techdoerwoojin.netlify.app)
+[![GMail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newwjsdnwls@gmail.com)](mailto:newwjsdnwls@gmail.com) [![Blog](https://img.shields.io/badge/blog-e0edf8?style=flat-square&logo=Astro&logoColor=#BC52EE&link=https://techdoerwoojin.netlify.app)](https://techdoerwoojin.netlify.app)
 
 <h2>📚 Stack</h2>
 
@@ -15,7 +15,7 @@
     <summary>
       <h4>👨🏻‍🎓 Used at university (4 years)</h4>
     </summary>
-    &ensp;&ensp;&ensp;&ensp;<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> 
+    &ensp;&ensp;&ensp;&ensp;<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img alt="Auto Cad" src="https://img.shields.io/badge/-auto cad-0078d7?style=for-the-badge&logo=autocad"/> <img alt="Cura" src="https://img.shields.io/badge/-cura-FCC624?style=for-the-badge&logo=cura"/> <img alt="C" src="https://img.shields.io/badge/-C-%23563D7C?style=for-the-badge&logo=C"/>
   </details>
   <details>
     <summary>
