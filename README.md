@@ -6,10 +6,7 @@
 
 <h3>🚀 Current Learning & Use</h3>
 
-&ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring Boot" src="https://img.shields.io/badge/spring Boot-%236DB33F.svg?style=for-the-badge&logo=spring Boot&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-%230081CB.svg?style=for-the-badge&logo=eclipse&logoColor=white"/> <br>
-&ensp;&ensp;&ensp;&ensp;<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="jUnit" src="https://img.shields.io/badge/jUnit-%238A4182.svg?style=for-the-badge&logo=jUnit&logoColor=white"/><br>
-&ensp;&ensp;&ensp;&ensp;<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
-&ensp;&ensp;&ensp;&ensp;<img alt="Jekyll" src="https://img.shields.io/badge/jekyll-%23CC342D.svg?style=for-the-badge&logo=jekyll&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+&ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring Boot" src="https://img.shields.io/badge/spring Boot-%236DB33F.svg?style=for-the-badge&logo=spring Boot&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
   <details>
     <summary>
@@ -19,7 +16,7 @@
   </details>
   <details>
     <summary>
-      <h4>🏫 Used during education (6 months)</h4>
+      <h4>🏫 Used during government-funded training institute (6 months)</h4>
     </summary>
     &ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-%230081CB.svg?style=for-the-badge&logo=eclipse&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
     &ensp;&ensp;&ensp;&ensp;<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><br>
@@ -35,9 +32,18 @@
     &ensp;&ensp;&ensp;&ensp;<img alt="Material UI" src="https://img.shields.io/badge/material ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/> <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> <br>
     &ensp;&ensp;&ensp;&ensp;<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </details>
+  <details>
+    <summary>
+      <h4>🏫 Used during private institute (6 months)</h4>
+    </summary>
+    &ensp;&ensp;&ensp;&ensp;<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-%230081CB.svg?style=for-the-badge&logo=eclipse&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
+    &ensp;&ensp;&ensp;&ensp;<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><br>
+    &ensp;&ensp;&ensp;&ensp;<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </details>
 
 <h2>🪪 License</h2>
 
-| Responsible Department |                Name                | Effective date | Expiration date |
-|:----------------------:|:----------------------------------:|:--------------:|:---------------:|
-|    [Korea Data Agency](https://www.kdata.or.kr/)   | [Structure Query Language Developer](https://www.dataq.or.kr/www/sub/a_04.do) |   2024.04.05   |    2026.04.05   |
+| Relevant Department | Responsible Department |                Name                | Effective date | Expiration date |
+|:-------------------:|:----------------------:|:----------------------------------:|:--------------:|:---------------:|
+|    [Korea Data Agency](https://www.kdata.or.kr/)   |    [Korea Data Agency](https://www.kdata.or.kr/)   | [Structure Query Language Developer](https://www.dataq.or.kr/www/sub/a_04.do) |   2024.04.05   |    2026.04.05   |
+|    [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)   |    [Human Resources Development Service of Korea](https://www.hrdkorea.or.kr/)   | [Engineer Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320) |   2024.06.18   |    Permanently   |
