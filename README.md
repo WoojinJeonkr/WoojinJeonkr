@@ -45,5 +45,5 @@
 
 | Relevant Department | Responsible Department |                Name                | Effective date | Expiration date |
 |:-------------------:|:----------------------:|:----------------------------------:|:--------------:|:---------------:|
-|    [Korea Data Agency](https://www.kdata.or.kr/)   |    [Korea Data Agency](https://www.kdata.or.kr/)   | [Structure Query Language Developer](https://www.dataq.or.kr/www/sub/a_04.do) |   2024.04.05   |    2026.04.05   |
-|    [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)   |    [Human Resources Development Service of Korea](https://www.hrdkorea.or.kr/)   | [Engineer Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320) |   2024.06.18   |    Permanently   |
+|    [한국데이터산업진흥원](https://www.kdata.or.kr/)   |    [한국데이터산업진흥원](https://www.kdata.or.kr/)   | [SQLD](https://www.dataq.or.kr/www/sub/a_04.do) |   2024.04.05   |    2026.04.05   |
+|    [과학기술정보통신부](https://www.msit.go.kr/eng/index.do)   |    [한국산업인력공단](https://www.hrdkorea.or.kr/)   | [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320) |   2024.06.18   |    Permanently   |
